@@ -1,0 +1,175 @@
+body {
+    background-color: green;
+}
+
+h2,h1 {
+    text-align: center;
+}
+
+.section1 {
+    display: inline-block;
+    /* Keeps both sections on the same line */
+    margin-right: 300px;
+    /* Adjust the spacing as needed */
+    margin-left: 120px;
+    color: white;
+    text-align: center;
+    font-family: verdana;
+}
+.section2 {
+    display: inline-block;
+    /* Keeps both sections on the same line */
+    margin-right: 300px;
+    /* Adjust the spacing as needed */
+    color: white;
+    text-align: center;
+    font-family: verdana;
+}
+
+
+/* CSS */
+.button-6 {
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.85);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin: auto;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  text-decoration: none;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: auto;
+  
+}
+
+.button-6:hover,
+.button-6:focus {
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.button-6:hover {
+  transform: translateY(-1px);
+}
+
+.button-6:active {
+  background-color: #F0F0F1;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+}
+.btn {
+    text-align: center;
+}
+.proff {
+    background-color: white;
+    color: green;
+    font-family: verdana;
+    
+}
+.title {
+    color: white;
+    text-align: center;
+    font-family: verdana;
+}
+.emptyy {
+    color: white;
+    text-decoration-color: white;
+}
+
+.parent {
+    border: thick double white;
+}
+.button-10 {
+    align-items: center;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: .25rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.85);
+    cursor: pointer;
+    display: inline-flex;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 1.25;
+    margin: auto;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: relative;
+    text-decoration: none;
+    transition: all 250ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: auto;
+    
+  }
+  
+  .button-10:hover,
+  .button-10:focus {
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    color: rgba(0, 0, 0, 0.65);
+  }
+  
+  .button-10:hover {
+    transform: translateY(-1px);
+  }
+  
+  .button-10:active {
+    background-color: #F0F0F1;
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+    color: rgba(0, 0, 0, 0.65);
+    transform: translateY(0);
+  }
+  .mnop{
+    color: black;
+    text-align: center;
+    font-family: verdana;
+    font-weight: 900;
+    font-size: 500;
+  }
+  .mnop1{
+    color: white;
+    text-align: left;
+    font-family: verdana;
+  }
+  .mnop2{
+    color: white;
+    text-align: left;
+    font-family: verdana;
+  }
+  .objectives{
+    text-align: left;
+  }
+  .uni1{
+    text-align: left;
+    color: white;
+  }
+.gauri{
+  border: 4rem;
+  border-color: black;
+}
+  
